@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an Assistant Professor with the Department of Mathematical Sciences at Eastern New Mexico University (ENMU). I received my Ph.D. degree in Electrical Engineering from University at Buffalo in 2024. I focus on research and technology transfer in space-air-ground networking, new spectrum technologies and software and testbed design for future networks. 
+I am an Experimentalist with the Polytechnic Institute of Zhejiang University (ZJU). I received the B.E. degree from Dalian Jiaotong University, Dalian, China, in 2016, and the Ph.D. degree in communication and information systems from Beijing Jiaotong University, Beijing, China, in 2023. I focus on research and technology transfer in Information-Centric Networks(ICN), Software-Defined Networks(SDN), programmable data plane and network security. 
 
 <!--
 I have published more than 10 papers with total <a href='https://scholar.google.com/citations?user=PcebAfcAAAAJ'>google scholar citations <strong><span id='total_cit'></span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=PcebAfcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
@@ -27,12 +27,14 @@ I have published more than 10 papers with total <a href='https://scholar.google.
 
 # News
 
-- <span style="color:red;">Feb. 2026</span>: I am honored to be invited to serve as the Demonstration Co-Chair for IEEE CCNC 2027.
+- <span style="color:red;">Mar. 2026</span>: I joined Zhejiang University in Hangzhou, China.
+<!--
+- <span style="color:red;">Mar. 2026</span>: I am honored to be invited to serve as the Demonstration Co-Chair for IEEE CCNC 2027.
 
 - <span style="color:red;">Nov. 2025</span>: My mentee, Brandon Figueroa Ugalde, presented our work, “Robust Reinforcement Learning for UAV Deployment in Noisy Environments,” at the New Mexico Research Symposium. 
 
 - <span style="color:red;">June. 2025</span>: I am honored to accept "Faculty Research and Instructional Development" grant. 
-
+-->
 <span class='anchor' id='publications'></span>
 
 # Publications 
