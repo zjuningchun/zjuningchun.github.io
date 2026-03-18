@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jiangqi Hu"
-description              : ""
-repository               : "JiangqiHu/JiangqiHu.github.io"
+title                    : "Ningchun Liu"
+description              : "Dr."
+repository               : "zjuningchun/zjuningchun.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jiangqi Hu"
+  name             : "Ningchun Liu"
   avatar           : "images/profile.PNG"
-  bio              : "Eastern New Mexico University"
-  location         : "New Mexico, US"
+  bio              : "Zhejiang University"
+  location         : "Hangzhou, China"
   employer         : # "Eastern New Mexico University"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=PcebAfcAAAAJ"
-  email            : "jiangqi.hu@enmu.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=vFY_HBgAAAAJ&hl=zh-CN"
+  email            : "nchliu@ezju.edu.cn"
   uri              :
   bitbucket        :
   codepen          :
@@ -42,9 +42,9 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  researchgate     : "https://www.researchgate.net/profile/Jiangqi-Hu"
-  orcid            : "https://orcid.org/0000-0002-5848-4699"
-  linkedin         : "jiangqihu"
+  researchgate     : "https://researchgate.net/profile/Ningchun-Liu"
+  orcid            : "https://orcid.org/0000-0002-0187-4223"
+  linkedin         : # "jiangqihu"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   pinterest        :
   soundcloud       :
