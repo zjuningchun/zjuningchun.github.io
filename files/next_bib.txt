@@ -1,8 +1,0 @@
-@inproceedings{next,
-    author = "J. Hu and M. McManus and S. K. Moorthy and Y. Cui and Z. Guan and N. Mastronarde and E. S. Bentley and M. Medley",
-    title = "{NeXT: A Software-Defined Testbed with Integrated Optimization, Simulation and Experimentation}",
-    booktitle = "Proc. of IEEE Future Networks World Forum (FNWF): WS5: Federated Testbed as a Service for Future Networks: Challenges & the State of the Art",
-    address = "Montreal, Canada",
-    month = "October",
-    year = "2022"
-    }

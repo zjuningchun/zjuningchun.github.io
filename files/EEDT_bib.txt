@@ -1,8 +1,0 @@
-@inproceedings{EEDT,
-    author = "J. Hu, Q. Yang, and  K. S. Kwak",
-    title = "{Energy Efficiency and Delay Tradeoff in Wireless Powered Communication Networks}",
-    booktitle = "Proc. of International Symposium on Communications and Information Technologies (ISCIT)",
-    address = "Cairns, Australia",
-    month = "Sept.",
-    year = "2017"
-    }

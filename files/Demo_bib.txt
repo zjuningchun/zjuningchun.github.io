@@ -1,8 +1,0 @@
-@inproceedings{infocom23,
-    author = "N. Mishra, Y. V. Iyengar, A. C. Raikar, N. Thomas, S. K. Moorthy, J. Hu, Z. Zhao, N. Mastronarde, E. S. Bentley, M. Medley, and Z. Guan",
-    title = "{Demo Abstract: Scaling Out srsRAN Through Interfacing Wirelessly srsENB With srsEPC}",
-    booktitle = "Proc. of  IEEE International Conference on Computer Communications (INFOCOM)",
-    address = "New York area, USA",
-    month = "May",
-    year = "2023"
-    }

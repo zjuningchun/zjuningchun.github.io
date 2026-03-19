@@ -51,8 +51,12 @@ I have published more than 10 papers with total <a href='https://scholar.google.
 -->
 
 ## Journal and Magazines
-- X. Hou, S. Gao, **N. Liu**, F. Yao, B. Lei, H. Zhang and S. K. Das, "L3DML: Facilitating Geo-Distributed Machine Learning in Network Layer," **IEEE Transactions on Network and Service Management**, vol. 22, no. 2, pp. 1391-1408, April 2025. <a href="files/2024_TNSM_L3DML.pdf">[pdf]<a href="files/2024_TNSM_L3DML_bib.txt">[bib] 
+- Xindi Hou, Shuai Gao, **Ningchun Liu**, Fangtao Yao, Bo Lei, Hongke Zhang, and Sajal K. Das, "L3DML: Facilitating Geo-Distributed Machine Learning in Network Layer," **IEEE Transactions on Network and Service Management**, vol. 22, no. 2, pp. 1391-1408, April 2025. <a href="files/2024_TNSM_L3DML.pdf">[pdf]<a href="files/2024_TNSM_L3DML_bib.txt">[bib] 
 - 郜帅, 侯心迪, **刘宁春**, 张宏科. 多模态网络环境异构标识空间管控架构研究[J]. **通信学报**, 2022,43(4):26-35.<a href="files/2022_通信学报.pdf">[pdf]<a href="files/2022_通信学报_bib.txt">[bib] 
+- **Ningchun Liu**, Shuai Gao, Xindi Hou, Teng Liang, Guobiao He, Hongke Zhang, and Sajal K. Das, "An ICN-Based Secure Task Cooperation in Challenging Wireless Edge Networks," **IEEE Transactions on Network and Service Management**, vol. 21, no. 2, pp. 2140-2154, April 2024. <a href="files/2024_TNSM_ICNSTC.pdf">[pdf]<a href="files/2024_TNSM_ICNSTC_bib.txt">[bib] 
+- Xindi Hou, Shuai Gao, **Ningchun Liu**, Fangtao Yao, Hongke Zhang, and Sajal K. Das, "L3Geocast: Enabling P4-Based Customizable Network-Layer Geocast at the Network Edge," **IEEE Transactions on Mobile Computing**, vol. 23, no. 8, pp. 8323-8340, Aug. 2024. <a href="files/2024_TMC.pdf">[pdf]<a href="files/2024_TMC_bib.txt">[bib]
+- **Ningchun Liu**, Shuai Gao, Teng Liang, Xindi Hou, Lei Yu, and Hongke Zhang
+- Anyi Tang, Gang Niu, Xuanrui Zhu, Jianfeng Li, and **Ningchun Liu**
 - 
 - **J. Hu**, Z. Zhao, M. McManus, S. K. Moorthy, Y. Cui, N. Mastronarde, E. S. Bentley, M. Medley, and Z. Guan, "NeXT: Architecture, Prototyping and Measurement of a Software-Defined Testing Framework for Integrated RF Network Simulation, Experimentation and Optimization," **Elsevier Journal of Computer Communications**, August 2023.  <a href="files/NeXT_Journal.pdf">[pdf]<a href="files/NeXT_Journal_bib.txt">[bib] 
 - **J. Hu**, S. K. Moorthy, A. Harindranath, Z. Guan, N. Mastronarde, E. S.Bentley, and S. Pudlewski, "A Mobility-Resilient Spectrum Sharing Framework for Operating Wireless UAVs in the 6 GHz Band," **IEEE/ACM Transactions on Networking**, May 2023.  <a href="files/SwarmShare_Journal.pdf">[pdf] <a href="files/SwarmShare_Journal_bib.txt">[bib] 

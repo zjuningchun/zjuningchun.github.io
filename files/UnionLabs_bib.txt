@@ -1,8 +1,0 @@
-@inproceedings{UnionLabs,
-    author = "Maxwell McManus and Tenzin Rinchen and Shaik Mohammed Suhail and Sidharth Santhinivas and Annoy Dey and Shashank Pagidimarri and Yuqing Cui and Jiangqi Hu and Josh (Zhaoxi) Zhang and Xi (Leo) Wang and Mingyue Ji and Nicholas Mastronarde and Zhangyu Guan",
-    title = "{Demo Abstract: UnionLabs: AWS-based Remote Access and Sharing of NextG and IoT Testbeds}",
-    booktitle = "Proc. of  IEEE International Conference on Computer Communications (INFOCOM)",
-    address = "Vancouver, Canada",
-    month = "May",
-    year = "2024"
-    }

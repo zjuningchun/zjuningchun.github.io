@@ -1,8 +1,0 @@
-@inproceedings{WiNTECH24,
-    author = "Maxwell McManus and Tenzin Rinchen and Annoy Dey and Sumanth Thota and Zhaoxi (Josh) Zhang and Jiangqi Hu and Xi (Leo) Wang and Jiangqi Hu and Mingyue Ji and Nicholas Mastronarde and Elizabeth Serena Bentley and Michael Medley and Zhangyu Guan",
-    title = "{Cloud-Based Federation Framework and Prototype for Open, Scalable, and Shared Access to NextG and IoT Testbeds}",
-    booktitle = "Proc. of 18th ACM MobiCom Workshop on Wireless Network Testbeds, Experimental evaluation & Characterization (WiNTECH'24)",
-    address = "Washington, D.C.",
-    month = "November",
-    year = "2024"
-    }

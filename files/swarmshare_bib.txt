@@ -1,8 +1,0 @@
-@inproceedings{swarmshare,
-    author = "Jiangqi Hu and Sabarish Krishna Moorthy and Ankush Harindranath and Z. Guan and N. Mastronarde and E. S. Bentley and S. Pudlewski",
-    title = "{SwarmShare: Mobility-Resilient Spectrum Sharing for Swarm UAV Networking in the 6 GHz Band}",
-    booktitle = "Proc. of IEEE International Conference on Sensing, Communication and Networking (SECON)",
-    address = "Virtual Conference",
-    month = "July",
-    year = "2021"
-    }
