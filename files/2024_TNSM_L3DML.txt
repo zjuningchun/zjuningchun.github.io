@@ -1,0 +1,10 @@
+@ARTICLE{10771800,
+  author={Hou, Xindi and Gao, Shuai and Liu, Ningchun and Yao, Fangtao and Lei, Bo and Zhang, Hongke and Das, Sajal K.},
+  journal={IEEE Transactions on Network and Service Management}, 
+  title={L3DML: Facilitating Geo-Distributed Machine Learning in Network Layer}, 
+  year={2025},
+  volume={22},
+  number={2},
+  pages={1391-1408},
+  keywords={Wide area networks;Training;Computational modeling;Machine learning;Synchronization;Routing;Scheduling;Bandwidth;Protocols;Processor scheduling;Distributed training;network-layer addressing;in-network computing;P4;deep reinforcement learning},
+  doi={10.1109/TNSM.2024.3509031}}
