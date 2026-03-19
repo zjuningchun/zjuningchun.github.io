@@ -1,0 +1,10 @@
+@ARTICLE{10372120,
+  author={Hou, Xindi and Gao, Shuai and Liu, Ningchun and Yao, Fangtao and Zhang, Hongke and Das, Sajal K.},
+  journal={IEEE Transactions on Mobile Computing}, 
+  title={L3Geocast: Enabling P4-Based Customizable Network-Layer Geocast at the Network Edge}, 
+  year={2024},
+  volume={23},
+  number={8},
+  pages={8323-8340},
+  keywords={Routing;IP networks;Geology;Databases;Scalability;Ad hoc networks;Computer architecture;Customizable geocast;geographic routing;network-layer addressing;p4;SDN},
+  doi={10.1109/TMC.2023.3345933}}

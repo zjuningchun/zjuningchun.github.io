@@ -1,0 +1,10 @@
+@ARTICLE{10379481,
+  author={Liu, Ningchun and Gao, Shuai and Hou, Xindi and Liang, Teng and He, Guobiao and Zhang, Hongke and Das, Sajal K.},
+  journal={IEEE Transactions on Network and Service Management}, 
+  title={An ICN-Based Secure Task Cooperation in Challenging Wireless Edge Networks}, 
+  year={2024},
+  volume={21},
+  number={2},
+  pages={2140-2154},
+  keywords={Task analysis;Collaboration;Wireless communication;Security;Communication system security;Costs;Access control;ICN;secure task cooperation;wireless edge networks},
+  doi={10.1109/TNSM.2023.3349207}}
