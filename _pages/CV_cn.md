@@ -1,5 +1,5 @@
 ---
-permalink: /CV_cn/
+permalink: /
 title: ""
 excerpt: ""
 author_profile: true
@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-[中文](CV_cn) | [English](CV_en)
+[中文](CV_cn.md) | [English](CV_en.md)
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
