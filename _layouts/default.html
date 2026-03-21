@@ -1,33 +1,144 @@
----
-layout: compress
----
+<!DOCTYPE html>
+<html lang="{{ site.default_lang }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title id="site-title">{{ site.lang[site.default_lang].site.title }}</title>
+  <meta name="description" content="{{ site.lang[site.default_lang].site.description }}" id="site-desc">
+  <!-- 保留你原有CSS引用 -->
+  <link rel="stylesheet" href="/css/style.css">
+  <!-- 语言切换按钮样式（极简，不冲突原有样式） -->
+  <style>
+    .lang-switch-group {
+      position: fixed;
+      top: 20px;
+      right: 20px;
+      display: flex;
+      gap: 8px;
+      z-index: 9999; /* 确保按钮在最上层 */
+    }
+    .lang-switch-btn {
+      padding: 6px 12px;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      cursor: pointer;
+      background: #fff;
+      font-size: 14px;
+    }
+    .lang-switch-btn.active {
+      background: #007bff;
+      color: #fff;
+      border-color: #007bff;
+    }
+  </style>
+</head>
+<body>
+  <!-- 新增：语言切换按钮 -->
+  <div class="lang-switch-group">
+    <button class="lang-switch-btn" data-lang="en" id="btn-en">{{ site.lang.en.button.switch_en }}</button>
+    <button class="lang-switch-btn" data-lang="zh" id="btn-zh">{{ site.lang.zh.button.switch_zh }}</button>
+  </div>
 
-<!doctype html>
-<html lang="en" class="no-js">
-  <head>
-    {% include head.html %}
-    {% include head/custom.html %}
-  </head>
+  <!-- 保留你原有页面内容（比如头部、作者信息、导航等） -->
+  <!-- 示例：适配多语言的作者信息区域 -->
+  {% if page.author_profile or layout.author_profile %}
+  <div class="author-profile">
+    <img src="{{ site.author.avatar }}" alt="Profile" class="avatar">
+    <h1 id="author-name">{{ site.lang[site.default_lang].site.title }}</h1>
+    <p id="author-location">{{ site.lang[site.default_lang].author.location }}</p>
+    <p id="author-bio">{{ site.lang[site.default_lang].author.bio }}</p>
+    <!-- 原有社交链接（保留） -->
+    <ul class="social-links">
+      {% if site.author.googlescholar %}
+      <li><a href="{{ site.author.googlescholar }}">Google Scholar</a></li>
+      {% endif %}
+      {% if site.author.github %}
+      <li><a href="https://github.com/{{ site.author.github }}">GitHub</a></li>
+      {% endif %}
+      {% if site.author.researchgate %}
+      <li><a href="{{ site.author.researchgate }}">ResearchGate</a></li>
+      {% endif %}
+      {% if site.author.orcid %}
+      <li><a href="{{ site.author.orcid }}">ORCID</a></li>
+      {% endif %}
+      {% if site.author.email %}
+      <li><a href="mailto:{{ site.author.email }}">Email</a></li>
+      {% endif %}
+    </ul>
+  </div>
+  {% endif %}
 
-  <body>
+  <!-- 原有导航（适配多语言） -->
+  <nav class="main-nav">
+    <ul>
+      <li><a href="/" id="nav-home">{{ site.lang[site.default_lang].nav.home }}</a></li>
+      <li><a href="/publications" id="nav-publications">{{ site.lang[site.default_lang].nav.publications }}</a></li>
+      <li><a href="/about" id="nav-about">{{ site.lang[site.default_lang].nav.about }}</a></li>
+      <li><a href="/contact" id="nav-contact">{{ site.lang[site.default_lang].nav.contact }}</a></li>
+    </ul>
+  </nav>
 
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
+  <!-- 页面主体内容 -->
+  <main class="content" aria-label="Content">
+    {{ content }}
+  </main>
 
-    <div id="main" role="main">
-      {% include sidebar.html %}
-    
-      <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-        {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
-        <div class="page__inner-wrap">
-          <section class="page__content" itemprop="text">
-            {{ content }}
-          </section>
-        </div>
-      </article>
-    </div>
+  <!-- 新增：语言切换核心JS -->
+  <script>
+    // 1. 把Jekyll的多语言配置传到前端
+    const langConfig = {{ site.lang | jsonify }};
+    const defaultLang = "{{ site.default_lang }}";
+    // 2. 初始化语言（优先本地存储，无则用默认英文）
+    let currentLang = localStorage.getItem('site-lang') || defaultLang;
 
-    {% include scripts.html %}
+    // 3. 页面加载完成后初始化
+    document.addEventListener('DOMContentLoaded', () => {
+      updatePageLang(currentLang);
+      setActiveBtn(currentLang);
+      // 绑定按钮点击事件
+      bindLangSwitchEvent();
+    });
 
-  </body>
+    // 4. 绑定语言切换按钮事件
+    function bindLangSwitchEvent() {
+      document.querySelectorAll('.lang-switch-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+          const targetLang = btn.dataset.lang;
+          localStorage.setItem('site-lang', targetLang); // 保存用户选择
+          updatePageLang(targetLang);
+          setActiveBtn(targetLang);
+        });
+      });
+    }
+
+    // 5. 核心：更新页面所有多语言文本
+    function updatePageLang(targetLang) {
+      // 修改HTML根语言（利于SEO）
+      document.documentElement.lang = targetLang;
+      // 更新站点标题/描述
+      document.getElementById('site-title').textContent = langConfig[targetLang].site.title;
+      document.getElementById('site-desc').content = langConfig[targetLang].site.description;
+      // 更新作者信息
+      document.getElementById('author-name').textContent = langConfig[targetLang].site.title;
+      document.getElementById('author-location').textContent = langConfig[targetLang].author.location;
+      document.getElementById('author-bio').textContent = langConfig[targetLang].author.bio;
+      // 更新导航
+      document.getElementById('nav-home').textContent = langConfig[targetLang].nav.home;
+      document.getElementById('nav-publications').textContent = langConfig[targetLang].nav.publications;
+      document.getElementById('nav-about').textContent = langConfig[targetLang].nav.about;
+      document.getElementById('nav-contact').textContent = langConfig[targetLang].nav.contact;
+    }
+
+    // 6. 高亮当前选中的语言按钮
+    function setActiveBtn(targetLang) {
+      document.querySelectorAll('.lang-switch-btn').forEach(btn => {
+        if (btn.dataset.lang === targetLang) {
+          btn.classList.add('active');
+        } else {
+          btn.classList.remove('active');
+        }
+      });
+    }
+  </script>
+</body>
 </html>
