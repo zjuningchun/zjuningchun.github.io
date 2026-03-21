@@ -26,12 +26,8 @@ I have published more than 10 papers with total <a href='https://scholar.google.
 <span class='anchor' id='news'></span>
 
 # News
-
 - <span style="color:red;">Mar. 2026</span>: I joined Zhejiang University in Hangzhou, China.
 - <span style="color:red;">Apr. 2024</span>: I am honored to be invited to serve as the Session Chair on 2024 The 9th International Conference on Computer and Communication Systems (ICCCS 2024).
-<!-- 
-- <span style="color:red;">June. 2025</span>: I am honored to accept "Faculty Research and Instructional Development" grant. 
--->
 <span class='anchor' id='publications'></span>
 
 # Publications 
