@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Ningchun Liu (刘宁春)"
+  name             : ""
   avatar           : "images/profile.PNG"
-  bio              : "Zhejiang University"
+  bio              : ""
   location         : "Hangzhou, China"
   employer         :
   pubmed           :
