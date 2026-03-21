@@ -15,9 +15,16 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+- <span class='anchor' id='about-me'></span>
 
-I am an Experimentalist with the Polytechnic Institute of Zhejiang University (ZJU). I received the B.E. degree from Dalian Jiaotong University, Dalian, China, in 2016, and the Ph.D. degree in communication and information systems from Beijing Jiaotong University, Beijing, China, in 2023. I focus on research and technology transfer in Information-Centric Networks(ICN), Software-Defined Networks(SDN), programmable data plane and network security. 
+# About Me
+刘宁春 博士，实验师
+Ningchun Liu, Ph.D, Experimentalist
+浙江大学国家卓越工程师学院（浙江大学工程师学院、浙江工程师学院） National College for Excellent Engineers of Zhejiang University (Polytechnic Institute of Zhejiang University, Zhejiang Polytechnic Institute)
+浙江省空域感知与自主无人系统重点实验室 Zhejiang Key Laboratory of Airspace Perception and Autonomous Unmanned Systems
+
+I received the B.E. degree from Dalian Jiaotong University (DJTU), Dalian, China, in 2016, and the Ph.D. degree in communication and information systems from Beijing Jiaotong University (BJTU), Beijing, China, in 2023. 
+I focus on research and technology transfer in Information-Centric Networks(ICN), Software-Defined Networks(SDN), programmable data plane and network security. 
 
 <!--
 I have published more than 10 papers with total <a href='https://scholar.google.com/citations?user=PcebAfcAAAAJ'>google scholar citations <strong><span id='total_cit'></span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=PcebAfcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
@@ -28,23 +35,10 @@ I have published more than 10 papers with total <a href='https://scholar.google.
 # News
 - <span style="color:red;">Mar. 2026</span>: I joined Zhejiang University in Hangzhou, China.
 - <span style="color:red;">Apr. 2024</span>: I am honored to be invited to serve as the Session Chair on 2024 The 9th International Conference on Computer and Communication Systems (ICCCS 2024).
-<span class='anchor' id='publications'></span>
+
+- <span class='anchor' id='publications'></span>
 
 # Publications 
-
-<!--
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
--->
 
 ## Journal and Magazines
 - Xindi Hou, Shuai Gao, **Ningchun Liu**, Fangtao Yao, Bo Lei, Hongke Zhang, and Sajal K. Das, "L3DML: Facilitating Geo-Distributed Machine Learning in Network Layer," **IEEE Transactions on Network and Service Management**, vol. 22, no. 2, pp. 1391-1408, April 2025. <a href="files/2024_TNSM_L3DML.pdf">[pdf]<a href="files/2024_TNSM_L3DML_bib.txt">[bib] 
@@ -98,5 +92,5 @@ I have published more than 10 papers with total <a href='https://scholar.google.
 <span class='anchor' id='news'></span>
 
 # Links
-- <a href="https://www.enmu.edu/academics/degrees-programs/undergraduate-degree/bachelor/bachelors-electronics-engineering-technology">Electronics Engineering Technology@Eastern New Mexico University
+- <a href="https://pi.zju.edu.cn/">浙江大学国家卓越工程师学院
 - <a href="https://engineering.buffalo.edu/ee.html">Electrical Engineering@University at Buffalo
