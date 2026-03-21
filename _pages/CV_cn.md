@@ -4,8 +4,9 @@ title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /about_cn/
+  - /about_cn.html
+  - /CV_cn.html
 ---
 <!-- 顶部加中英文切换链接，放在简历最上方 -->
 <div style="text-align:right; margin-bottom: 20px;">
