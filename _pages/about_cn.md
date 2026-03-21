@@ -57,11 +57,6 @@ I have published more than 10 papers with total <a href='https://scholar.google.
 - Xindi Hou, Shuai Gao, **Ningchun Liu**, Fangtao Yao, Hongke Zhang, and Sajal K. Das, "L3Geocast: Enabling P4-Based Customizable Network-Layer Geocast at the Network Edge," **IEEE Transactions on Mobile Computing**, vol. 23, no. 8, pp. 8323-8340, Aug. 2024. <a href="files/2024_TMC.pdf">[pdf]<a href="files/2024_TMC_bib.txt">[bib]
 - **Ningchun Liu**, Shuai Gao, Teng Liang, Xindi Hou, Lei Yu, and Hongke Zhang
 - Anyi Tang, Gang Niu, Xuanrui Zhu, Jianfeng Li, and **Ningchun Liu**
-- 
-- **J. Hu**, Z. Zhao, M. McManus, S. K. Moorthy, Y. Cui, N. Mastronarde, E. S. Bentley, M. Medley, and Z. Guan, "NeXT: Architecture, Prototyping and Measurement of a Software-Defined Testing Framework for Integrated RF Network Simulation, Experimentation and Optimization," **Elsevier Journal of Computer Communications**, August 2023.  <a href="files/NeXT_Journal.pdf">[pdf]<a href="files/NeXT_Journal_bib.txt">[bib] 
-- **J. Hu**, S. K. Moorthy, A. Harindranath, Z. Guan, N. Mastronarde, E. S.Bentley, and S. Pudlewski, "A Mobility-Resilient Spectrum Sharing Framework for Operating Wireless UAVs in the 6 GHz Band," **IEEE/ACM Transactions on Networking**, May 2023.  <a href="files/SwarmShare_Journal.pdf">[pdf] <a href="files/SwarmShare_Journal_bib.txt">[bib] 
-- **J. Hu**, Q. Yang, "Dynamic energy-efficient resource allocation in wireless powered communication network," **Wireless Networks**, vol. 25, no. 6, pp. 3005-3018, Aug. 2019. <a href="files/DEERA.pdf">[pdf]<a href="files/DEERA_bib.txt">[bib] 
-- H. Wang, **J. Hu**, and W. Niu, "RC performance analysis based on model optimization with the aid of network calculus," **Photonic Network Communications**, vol. 37, no. 2, pp. 253-260, Apr. 2019.  <a href="files/RCPABMOANC.pdf">[pdf]<a href="files/RCPABMOANC_bib.txt">[bib] 
 
 ## Conference Papers
 - M. McManus, T. Rinchen, Z. Guan, A. Dey, S. Thota, J. Z. Zhang, **J. Hu**, X. L. Wang, M. Ji, N. Mastronarde, E. S. Bentley, and M. Medley, “Cloud-based federation framework and prototype for open, scalable, and shared access to nextg and iot testbeds,” in Proc. of **Annual International Conference on Mobile Computing and Networking (ACM MobiCom)**, New York, USA Nov. 2024. <a href="files/MMTestbed.pdf">[pdf]<a href="files/MMTestbed_bib.txt">[bib]
