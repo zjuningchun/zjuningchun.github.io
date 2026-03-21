@@ -17,16 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About Me
-Ningchun Liu, Ph.D, Experimentalist<br>
+Ningchun Liu, Ph.D, Experimentalist  
 National College for Excellent Engineers of Zhejiang University  
-Polytechnic Institute of Zhejiang University, Zhejiang Polytechnic Institute<br>
-Zhejiang Key Laboratory of Airspace Perception and Autonomous Unmanned Systems<br>
+Polytechnic Institute of Zhejiang University, Zhejiang Polytechnic Institute  
+Zhejiang Key Laboratory of Airspace Perception and Autonomous Unmanned Systems  
 
-刘宁春 博士，实验师<br>
-<a href="https://pi.zju.edu.cn/">浙江大学国家卓越工程师学院（浙江大学工程师学院、浙江工程师学院）<br>
-浙江省空域感知与自主无人系统重点实验室<br>
+刘宁春 博士，实验师  
+<a href="https://pi.zju.edu.cn/">浙江大学国家卓越工程师学院</a>（浙江大学工程师学院、浙江工程师学院）  
+浙江省空域感知与自主无人系统重点实验室  
 
-I received the B.E. degree from <a href="https://www.djtu.edu.cn/">Dalian Jiaotong University (DJTU), Dalian, China, in 2016, and the Ph.D. degree in communication and information systems from <a href="https://www.bjtu.edu.cn/">Beijing Jiaotong University (BJTU), Beijing, China, in 2023.<br>
+I received the B.E. degree from <a href="https://www.djtu.edu.cn/">Dalian Jiaotong University</a> (DJTU), Dalian, China, in 2016, and the Ph.D. degree in communication and information systems from <a href="https://www.bjtu.edu.cn/">Beijing Jiaotong University</a> (BJTU), Beijing, China, in 2023.<br>
 I focus on research and technology transfer in Information-Centric Networks(ICN), Software-Defined Networks(SDN), programmable data plane and network security.
 
 <!--
