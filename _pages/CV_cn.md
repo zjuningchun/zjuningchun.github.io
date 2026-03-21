@@ -1,5 +1,5 @@
 ---
-permalink: /CV_cn.md/
+permalink: /CV_cn/
 title: ""
 excerpt: ""
 author_profile: true
@@ -9,7 +9,7 @@ redirect_from:
 ---
 <!-- 顶部加中英文切换链接，放在简历最上方 -->
 <div style="text-align:right; margin-bottom: 20px;">
-  <a href="/">English</a> | <a href="/CV_cn.md">中文</a>
+  <a href="/">English</a> | <a href="/CV_cn/">中文</a>
 </div>
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
