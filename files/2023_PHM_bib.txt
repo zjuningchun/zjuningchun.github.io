@@ -1,0 +1,10 @@
+@INPROCEEDINGS{10482600,
+  author={Tang, Anyi and Niu, Gang and Zhu, Xuanrui and Li, Jianfeng and Liu, Ningchun},
+  booktitle={2023 Global Reliability and Prognostics and Health Management Conference (PHM-Hangzhou)}, 
+  title={A Three-Interface Data-based Wireless Communication Timeout Fault Diagnosis Method for China Train Control System}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-4},
+  keywords={Wireless communication;Fault diagnosis;Manuals;Forestry;Inspection;Control systems;Maintenance;train control system;fault diagnosis;Three-interface data;random forest},
+  doi={10.1109/PHM-Hangzhou58797.2023.10482600}}

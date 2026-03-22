@@ -1,0 +1,10 @@
+@INPROCEEDINGS{11427596,
+  author={Wang, Aiyue and Liu, Ningchun and Shen, Congqi and Zhu, Jun and Zou, Tao},
+  booktitle={2025 Global Reliability and Prognostics and Health Management Conference (PHM-Xian)}, 
+  title={Fine-Grained Health Monitoring of Optical Modules in Computing Clusters using Transformers}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Training;Degradation;Ultraviolet sources;Optical computing;Transformers;Adaptive optics;Maintenance;Prognostics and health management;Monitoring;Anomaly detection;Optical modules;Health Assessment;Transformer;Computing clusters},
+  doi={10.1109/PHM-Xian66756.2025.11427596}}

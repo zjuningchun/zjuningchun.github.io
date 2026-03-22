@@ -1,0 +1,10 @@
+@INPROCEEDINGS{11427372,
+  author={Liu, Ningchun and Wang, Aiyue and Tang, Anyi and Xiao, Geyang and Zhu, Jun and Zou, Tao},
+  booktitle={2025 Global Reliability and Prognostics and Health Management Conference (PHM-Xian)}, 
+  title={Data-driven Remaining Useful Life Prediction for Optical Modules in Intelligent Computing Networks}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-4},
+  keywords={Wireless communication;Computational modeling;System performance;Optical fiber networks;Predictive models;Transformers;Data models;Stability analysis;Maintenance;Long short term memory;Intelligent computing networks;optical module;remaining useful life;fault prediction},
+  doi={10.1109/PHM-Xian66756.2025.11427372}}

@@ -25,7 +25,7 @@ National College for Excellent Engineers of Zhejiang University
 Polytechnic Institute of Zhejiang University, Zhejiang Polytechnic Institute  
 Zhejiang Key Laboratory of Airspace Perception and Autonomous Unmanned Systems  
 
-Since March 2026, I have been working in National College for Excellent Engineers of Zhejiang University, focusing on AI4E research and practice courses teaching. From June 2023 to February 2026, I worked as an Assistant Researcher in the Research Center for High Efficiency Computing Infrastructure, Zhejiang Lab, working on network observability, fault diagnosis, and efficiency &amp; performance optimization for AI infrastructure. In June 2023, I received my Ph.D. degree from the National Engineering Research Center of Advanced Network Technologies, <a href="https://www.bjtu.edu.cn/">Beijing Jiaotong University</a>, under the supervision of <a href="https://eie.bjtu.edu.cn/faculty/7637.html">Prof. Shuai Gao</a>. In July 2016, I received my Bachelor of Engineering degree in Communication Engineering (Rail Transit Signal and Control) from College of Electrical Engineering and Information Technology, <a href="https://www.djtu.edu.cn/">Dalian Jiaotong University</a>. From September 2006 to June 2012, I studied at <a href="https://www.njyz.net/">Nanjing No.1 Middle School</a> and <a href="https://www.njjz.net/">Nanjing No.9 Middle School</a> successively.
+Since March 2026, I have been working in National College for Excellent Engineers of Zhejiang University, focusing on AI4E research and practice courses teaching. From June 2023 to February 2026, I worked as an Assistant Researcher in the Research Center for High Efficiency Computing Infrastructure, Zhejiang Lab, working on network observability, fault diagnosis, and efficiency &amp; performance optimization for AI infrastructure. In June 2023, I received my Ph.D. degree from the National Engineering Research Center of Advanced Network Technologies, <a href="https://www.bjtu.edu.cn/">Beijing Jiaotong University</a>, under the supervision of <a href="https://eie.bjtu.edu.cn/faculty/7637.html">Prof. Shuai Gao</a>. In July 2016, I received my Bachelor of Engineering degree in Communication Engineering (Rail Transit Signal and Control) from College of Electrical Engineering and Information Technology, <a href="https://www.djtu.edu.cn/">Dalian Jiaotong University</a>.  
 
 My research interest is AI for Engineering, advanced network architectures (including Information-Centric Networks (ICN), Software-Defined Networks (SDN), and (AI) Data Center Network), and network security.
 
@@ -43,17 +43,20 @@ I have published more than 10 papers with total <a href='https://scholar.google.
 # Publications 
 
 ## Journal and Magazines
-- Xindi Hou, Shuai Gao, **Ningchun Liu**, Fangtao Yao, Bo Lei, Hongke Zhang, and Sajal K. Das, "L3DML: Facilitating Geo-Distributed Machine Learning in Network Layer," **IEEE Transactions on Network and Service Management**, vol. 22, no. 2, pp. 1391-1408, April 2025. <a href="files/2024_TNSM_L3DML.pdf">[pdf]<a href="files/2024_TNSM_L3DML_bib.txt">[bib] 
-- 郜帅, 侯心迪, **刘宁春**, 张宏科. 多模态网络环境异构标识空间管控架构研究[J]. **通信学报**, 2022,43(4):26-35.<a href="files/2022_通信学报.pdf">[pdf]<a href="files/2022_通信学报_bib.txt">[bib] 
-- **Ningchun Liu**, Shuai Gao, Xindi Hou, Teng Liang, Guobiao He, Hongke Zhang, and Sajal K. Das, "An ICN-Based Secure Task Cooperation in Challenging Wireless Edge Networks," **IEEE Transactions on Network and Service Management**, vol. 21, no. 2, pp. 2140-2154, April 2024. <a href="files/2024_TNSM_ICNSTC.pdf">[pdf]<a href="files/2024_TNSM_ICNSTC_bib.txt">[bib] 
-- Xindi Hou, Shuai Gao, **Ningchun Liu**, Fangtao Yao, Hongke Zhang, and Sajal K. Das, "L3Geocast: Enabling P4-Based Customizable Network-Layer Geocast at the Network Edge," **IEEE Transactions on Mobile Computing**, vol. 23, no. 8, pp. 8323-8340, Aug. 2024. <a href="files/2024_TMC.pdf">[pdf]<a href="files/2024_TMC_bib.txt">[bib]
+- Xindi Hou, Shuai Gao, **Ningchun Liu**, Fangtao Yao, Bo Lei, Hongke Zhang, and Sajal K. Das, "L3DML: Facilitating Geo-Distributed Machine Learning in Network Layer," **IEEE Transactions on Network and Service Management**, vol. 22, no. 2, pp. 1391-1408, April 2025. <a href="/files/2024_TNSM_L3DML.pdf">[pdf]<a href="/files/2024_TNSM_L3DML_bib.txt">[bib] 
+- 郜帅, 侯心迪, **刘宁春**, 张宏科. 多模态网络环境异构标识空间管控架构研究[J]. **通信学报**, 2022,43(4):26-35.<a href="/files/2022_通信学报.pdf">[pdf]<a href="/files/2022_通信学报_bib.txt">[bib] 
+- **Ningchun Liu**, Shuai Gao, Xindi Hou, Teng Liang, Guobiao He, Hongke Zhang, and Sajal K. Das, "An ICN-Based Secure Task Cooperation in Challenging Wireless Edge Networks," **IEEE Transactions on Network and Service Management**, vol. 21, no. 2, pp. 2140-2154, April 2024. <a href="/files/2024_TNSM_ICNSTC.pdf">[pdf]<a href="/files/2024_TNSM_ICNSTC_bib.txt">[bib] 
+- Xindi Hou, Shuai Gao, **Ningchun Liu**, Fangtao Yao, Hongke Zhang, and Sajal K. Das, "L3Geocast: Enabling P4-Based Customizable Network-Layer Geocast at the Network Edge," **IEEE Transactions on Mobile Computing**, vol. 23, no. 8, pp. 8323-8340, Aug. 2024. <a href="/files/2024_TMC.pdf">[pdf]<a href="/files/2024_TMC_bib.txt">[bib]
 
 ## Conference Papers
-- **Ningchun Liu**, Shuai Gao, Teng Liang, Xindi Hou, Lei Yu, and Hongke Zhang
-- Anyi Tang, Gang Niu, Xuanrui Zhu, Jianfeng Li, and **Ningchun Liu**
+- **Ningchun Liu**, Aiyue Wang, Anyi Tang, Geyang Xiao, Jun Zhu, Tao Zou, "Data-driven Remaining Useful Life Prediction for Optical Modules in Intelligent Computing Networks," 2025 Global Reliability and Prognostics and Health Management Conference (PHM-Xian), Xian, China, 2025, pp. 1-4. <a href="/files/2025_PHM_Liu.pdf">[pdf]<a href="/files/2025_PHM_Liu_bib.txt">[bib]
+- Aiyue Wang, **Ningchun Liu**, Congqi Shen, Jun Zhu, Tao Zou, "Fine-Grained Health Monitoring of Optical Modules in Computing Clusters using Transformers," 2025 Global Reliability and Prognostics and Health Management Conference (PHM-Xian), Xian, China, 2025, pp. 1-6. <a href="/files/2025_PHM_Wang.pdf">[pdf]<a href="/files/2025_PHM_Wang_bib.txt">[bib]
+- **Ningchun Liu**, Shuai Gao, Teng Liang, Xindi Hou, Lei Yu, and Hongke Zhang, "A Privacy-Preserving Timing Attacks Mitigation in Information-Centric Edge Networks," 2023 IEEE International Conference on High Performance Computing & Communications, Data Science & Systems, Smart City & Dependability in Sensor, Cloud & Big Data Systems & Application (HPCC/DSS/SmartCity/DependSys), Melbourne, Australia, 2023, pp. 24-29. <a href="/files/2023_HPCC.pdf">[pdf]<a href="/files/2023_HPCC_bib.txt">[bib]
+- Anyi Tang, Gang Niu, Xuanrui Zhu, Jianfeng Li, and **Ningchun Liu**, "A Three-Interface Data-based Wireless Communication Timeout Fault Diagnosis Method for China Train Control System," 2023 Global Reliability and Prognostics and Health Management Conference (PHM-Hangzhou), Hangzhou, China, 2023, pp. 1-4. <a href="/files/2023_PHM.pdf">[pdf]<a href="/files/2023_PHM_bib.txt">[bib]
 
 ## Ph.D. Dissertation
-- Intelligent Spectrum Coexistence in UAV-Enabled NextG Networks: Algorithms and Testing Framework, June. 2024.  <a href="Jiangqi_Dissertation.pdf">[pdf] 
+- Research on Key Technologies for Securing Content in
+Information-centric Edge Networks, June. 2023.  <a href="/files/Ningchun_Dissertation.pdf">[pdf] 
 
 <span class='anchor' id='service'></span>
 

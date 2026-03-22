@@ -25,7 +25,7 @@ redirect_from:
 <a href="https://pi.zju.edu.cn/">浙江大学国家卓越工程师学院（浙江大学工程师学院、浙江工程师学院）</a>  
 浙江省空域感知与自主无人系统重点实验室  
 
-2026年3月至今，我在浙江大学国家卓越工程师学院工作，主要从事AI for Engineering（AI4E）工程创新与实践课程教学。2023年6月至2026年2月，我在<a href="https://www.zhejianglab.org/lab/home">之江实验室</a>高效能计算设施研究中心工作，主要从事AI基础设施网络可观测、故障诊断与效能优化。2023年6月，我从<a href="https://eie.bjtu.edu.cn/">北京交通大学电子信息工程学院</a>移动专用网络国家工程研究中心（原下一代互联网互联设备国家工程实验室）毕业，在<a href="https://eie.bjtu.edu.cn/faculty/7637.html">郜帅</a>教授指导下获得通信与信息系统专业工学博士学位。2016年7月，我从大连交通大学电气信息学院（现拆分为<a href="http://srie.djtu.edu.cn/">大连交通大学轨道智能工程学院</a>和<a href="http://dxxy.djtu.edu.cn/">大连交通大学电气工程学院</a>）获得通信工程（铁道信号）专业工学学士学位。2006年9月至2012年6月，我先后就读于<a href="https://www.njyz.net/">南京市第一中学</a>和<a href="https://www.njjz.net/">南京市第九中学</a>。
+2026年3月至今，我在浙江大学国家卓越工程师学院工作，主要从事AI for Engineering（AI4E）工程创新与实践课程教学。2023年6月至2026年2月，我在<a href="https://www.zhejianglab.org/lab/home">之江实验室</a>高效能计算设施研究中心工作，主要从事AI基础设施网络可观测、故障诊断与效能优化。2023年6月，我从<a href="https://eie.bjtu.edu.cn/">北京交通大学电子信息工程学院</a>移动专用网络国家工程研究中心（原下一代互联网互联设备国家工程实验室）毕业，在<a href="https://eie.bjtu.edu.cn/faculty/7637.html">郜帅</a>教授指导下获得通信与信息系统专业工学博士学位。2016年7月，我从大连交通大学电气信息学院（现拆分为<a href="http://srie.djtu.edu.cn/">大连交通大学轨道智能工程学院</a>和<a href="http://dxxy.djtu.edu.cn/">大连交通大学电气工程学院</a>）获得通信工程（铁道信号）专业工学学士学位。  
 
 我的研究方向是人工智能赋能工程，新型网络体系架构（包括信息中心网络、软件定义网络、数据（智算）中心网络等）、网络安全。  
 
@@ -43,17 +43,19 @@ I have published more than 10 papers with total <a href='https://scholar.google.
 # Publications 
 
 ## Journal and Magazines
-- Xindi Hou, Shuai Gao, **Ningchun Liu**, Fangtao Yao, Bo Lei, Hongke Zhang, and Sajal K. Das, "L3DML: Facilitating Geo-Distributed Machine Learning in Network Layer," **IEEE Transactions on Network and Service Management**, vol. 22, no. 2, pp. 1391-1408, April 2025. <a href="files/2024_TNSM_L3DML.pdf">[pdf]<a href="files/2024_TNSM_L3DML_bib.txt">[bib] 
-- 郜帅, 侯心迪, **刘宁春**, 张宏科. 多模态网络环境异构标识空间管控架构研究[J]. **通信学报**, 2022,43(4):26-35.<a href="files/2022_通信学报.pdf">[pdf]<a href="files/2022_通信学报_bib.txt">[bib] 
-- **Ningchun Liu**, Shuai Gao, Xindi Hou, Teng Liang, Guobiao He, Hongke Zhang, and Sajal K. Das, "An ICN-Based Secure Task Cooperation in Challenging Wireless Edge Networks," **IEEE Transactions on Network and Service Management**, vol. 21, no. 2, pp. 2140-2154, April 2024. <a href="files/2024_TNSM_ICNSTC.pdf">[pdf]<a href="files/2024_TNSM_ICNSTC_bib.txt">[bib] 
-- Xindi Hou, Shuai Gao, **Ningchun Liu**, Fangtao Yao, Hongke Zhang, and Sajal K. Das, "L3Geocast: Enabling P4-Based Customizable Network-Layer Geocast at the Network Edge," **IEEE Transactions on Mobile Computing**, vol. 23, no. 8, pp. 8323-8340, Aug. 2024. <a href="files/2024_TMC.pdf">[pdf]<a href="files/2024_TMC_bib.txt">[bib]
+- Xindi Hou, Shuai Gao, **Ningchun Liu**, Fangtao Yao, Bo Lei, Hongke Zhang, and Sajal K. Das, "L3DML: Facilitating Geo-Distributed Machine Learning in Network Layer," **IEEE Transactions on Network and Service Management**, vol. 22, no. 2, pp. 1391-1408, April 2025. <a href="/files/2024_TNSM_L3DML.pdf">[pdf]<a href="/files/2024_TNSM_L3DML_bib.txt">[bib] 
+- 郜帅, 侯心迪, **刘宁春**, 张宏科. 多模态网络环境异构标识空间管控架构研究[J]. **通信学报**, 2022,43(4):26-35.<a href="/files/2022_通信学报.pdf">[pdf]<a href="/files/2022_通信学报_bib.txt">[bib] 
+- **Ningchun Liu**, Shuai Gao, Xindi Hou, Teng Liang, Guobiao He, Hongke Zhang, and Sajal K. Das, "An ICN-Based Secure Task Cooperation in Challenging Wireless Edge Networks," **IEEE Transactions on Network and Service Management**, vol. 21, no. 2, pp. 2140-2154, April 2024. <a href="/files/2024_TNSM_ICNSTC.pdf">[pdf]<a href="/files/2024_TNSM_ICNSTC_bib.txt">[bib] 
+- Xindi Hou, Shuai Gao, **Ningchun Liu**, Fangtao Yao, Hongke Zhang, and Sajal K. Das, "L3Geocast: Enabling P4-Based Customizable Network-Layer Geocast at the Network Edge," **IEEE Transactions on Mobile Computing**, vol. 23, no. 8, pp. 8323-8340, Aug. 2024. <a href="/files/2024_TMC.pdf">[pdf]<a href="/files/2024_TMC_bib.txt">[bib]
 
 ## Conference Papers
-- **Ningchun Liu**, Shuai Gao, Teng Liang, Xindi Hou, Lei Yu, and Hongke Zhang
-- Anyi Tang, Gang Niu, Xuanrui Zhu, Jianfeng Li, and **Ningchun Liu**
+- **Ningchun Liu**, Aiyue Wang, Anyi Tang, Geyang Xiao, Jun Zhu, Tao Zou, "Data-driven Remaining Useful Life Prediction for Optical Modules in Intelligent Computing Networks," 2025 Global Reliability and Prognostics and Health Management Conference (PHM-Xian), Xian, China, 2025, pp. 1-4. <a href="/files/2025_PHM_Liu.pdf">[pdf]<a href="/files/2025_PHM_Liu_bib.txt">[bib]
+- Aiyue Wang, **Ningchun Liu**, Congqi Shen, Jun Zhu, Tao Zou, "Fine-Grained Health Monitoring of Optical Modules in Computing Clusters using Transformers," 2025 Global Reliability and Prognostics and Health Management Conference (PHM-Xian), Xian, China, 2025, pp. 1-6. <a href="/files/2025_PHM_Wang.pdf">[pdf]<a href="/files/2025_PHM_Wang_bib.txt">[bib]
+- **Ningchun Liu**, Shuai Gao, Teng Liang, Xindi Hou, Lei Yu, and Hongke Zhang, "A Privacy-Preserving Timing Attacks Mitigation in Information-Centric Edge Networks," 2023 IEEE International Conference on High Performance Computing & Communications, Data Science & Systems, Smart City & Dependability in Sensor, Cloud & Big Data Systems & Application (HPCC/DSS/SmartCity/DependSys), Melbourne, Australia, 2023, pp. 24-29. <a href="/files/2023_HPCC.pdf">[pdf]<a href="/files/2023_HPCC_bib.txt">[bib]
+- Anyi Tang, Gang Niu, Xuanrui Zhu, Jianfeng Li, and **Ningchun Liu**, "A Three-Interface Data-based Wireless Communication Timeout Fault Diagnosis Method for China Train Control System," 2023 Global Reliability and Prognostics and Health Management Conference (PHM-Hangzhou), Hangzhou, China, 2023, pp. 1-4. <a href="/files/2023_PHM.pdf">[pdf]<a href="/files/2023_PHM_bib.txt">[bib]
 
 ## Ph.D. Dissertation
-- Intelligent Spectrum Coexistence in UAV-Enabled NextG Networks: Algorithms and Testing Framework, June. 2024.  <a href="Jiangqi_Dissertation.pdf">[pdf] 
+- 信息中心边缘网络内容安全关键技术研究，2023年6月.  <a href="/files/Ningchun_Dissertation.pdf">[pdf] 
 
 <span class='anchor' id='service'></span>
 

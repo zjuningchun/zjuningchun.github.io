@@ -1,0 +1,10 @@
+@INPROCEEDINGS{10466932,
+  author={Liu, Ningchun and Gao, Shuai and Liang, Teng and Hou, Xindi and Yu, Lei and Zhang, Hongke},
+  booktitle={2023 IEEE International Conference on High Performance Computing & Communications, Data Science & Systems, Smart City & Dependability in Sensor, Cloud & Big Data Systems & Application (HPCC/DSS/SmartCity/DependSys)}, 
+  title={A Privacy-Preserving Timing Attacks Mitigation in Information-Centric Edge Networks}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={24-29},
+  keywords={Privacy;Data privacy;Costs;Network topology;Simulation;Information-centric networking;Delays;Information-centric edge networks;timing attacks;differential privacy},
+  doi={10.1109/HPCC-DSS-SmartCity-DependSys60770.2023.00013}}
