@@ -60,6 +60,12 @@ I have published more than 10 papers with total <a href='https://scholar.google.
 <span class='anchor' id='service'></span>
 
 # Service
+## 社会兼职
+- 2025年12月起，中国计算机学会（CCF）网络与系统安全专业委员会首批执行委员  
+- 2024年7月起，中国指挥与控制学会（CICC）智能物联网专业委员会会委员
+- 2024年1月起，中国通信学会会员
+- 2023年12月起，中国计算机学会会员
+- 2025年8月起，浙江省计算机学会会员
 
 ## TPC Member
 - IEEE INFOCOM (Poster Session), 2026
@@ -68,23 +74,22 @@ I have published more than 10 papers with total <a href='https://scholar.google.
 - IEEE ROBOCOM, 2025
 
 ## Reviewer
-- **IEEE Journals**: IEEE Transactions on Networking, IEEE Transactions on  Communications, IEEE Transactions on Wireless Communications,  IEEE Transactions on Mobile Computing, IEEE Journal on Selected Areas in Communications (JSAC) Special Issue on Digital Twins for Mobile Networks,  IEEE Transactions on Signal Processing, IEEE Transactions on Consumer Electronics
-- **Elsevier Journals**: Computer Networks (COMNET)
-- **Spring Nature**: Wireless Networks, The Journal of Supercomputing, Wireless Personal Communications 
-- **Other Journals**: Journal of testing and evaluation
-- **Conferences**: INFOCOM, MASS, GLOBECOM, ICC, PIMRC, MILCOM, WCNC, ROBOCOM, MSWiM, CCNC
+- **IEEE Journals**: IEEE Transactions on Network and Service Management
+- **Elsevier Journals**: Digital Communications and Networks (DCN)
+- **Spring Nature**: The Journal of Supercomputing, BMC Medical Informatics and Decision Making
+- **Conferences**: IEEE ICC, IEEE ICCCN, IEEE PHM
 
 <span class='anchor' id='teaching'></span>
 
 # Teaching Experience
 ## Zhejiang University
-- Introduction to Engineering with MATLAB, Spring 2026
+- 大模型开发与部署实践, 2025-2026学年春学期
 
 ## Beijing Jiaotong University
-- Programmable Networks, Spring 2020
-- Electronic Devices and Circuits I, Fall 2019
-- Circuit Analysis, Fall 2019
+- C语言课程，2017-2018学年秋学期、2018-2019学年秋学期、2019-2020学年秋学期
 
+## Dalian Jiaotong University
+- 单片机原理及应用，2015-2016学年秋学期
 
 <span class='anchor' id='news'></span>
 
