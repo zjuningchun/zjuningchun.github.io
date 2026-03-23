@@ -1,0 +1,12 @@
+@Article{2023-30003,
+title = {算力网络中高效算力资源度量方法},
+journal = {计算机研究与发展},
+volume = {60},
+number = {4},
+pages = {763-771},
+year = {2023},
+issn = {1000-1239},
+doi = {10.7544/issn1000-1239.202330003},
+url = {https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202330003},
+author = {柴若楠 and 郜帅 and 兰江雨 and 刘宁春}
+}

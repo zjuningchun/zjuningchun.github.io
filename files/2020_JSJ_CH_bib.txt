@@ -1,0 +1,10 @@
+@article{WJFZ202012023,
+author = {陈红 and 刘宁春 and 郜帅 and 周华春},
+title = {基于SDN的服务驱动组播的设计与实现},
+journal = {计算机技术与发展},
+volume = {30},
+number = {12},
+pages = {130-135},
+year = {2020},
+issn = {1673-629X},
+}
