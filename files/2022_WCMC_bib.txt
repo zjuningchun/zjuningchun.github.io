@@ -1,0 +1,14 @@
+@article{https://doi.org/10.1155/2022/4466942,
+author = {Liu, Ningchun and Gao, Shuai and Yu, Lei and He, Guobiao},
+title = {A Secure and Cached-Enabled NDN Forwarding Plane Based on Programmable Switches},
+journal = {Wireless Communications and Mobile Computing},
+volume = {2022},
+number = {1},
+pages = {4466942},
+doi = {https://doi.org/10.1155/2022/4466942},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1155/2022/4466942},
+eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1155/2022/4466942},
+abstract = {Recently, the rapid development of software-defined networking (SDN) and programming protocol-independent packet processors (P4) provides a potential possibility for the deployment of Named Data Networking (NDN), which has aroused tremendous attention in academia. Existing P4-based NDN solutions mainly focus on how to describe the stateful forwarding characteristics of NDN in a programmable switch environment. However, the existing solutions still face many challenges such as cache availability and data confidentiality and do not support retransmission of interest packets and multicast forwarding of data packets. In this paper, we propose a new NDN forwarding plane based on programmable switches to address the above challenges. We design a decoupled cache module to avoid a large impact on the data plane forwarding performance when the cache function is enabled. Also, we enhance the design of the existing P4-based NDN forwarding plane to support interest retransmission and multicast forwarding of data packets. In addition, with the advantage of network programmability of P4 technology, we extend the content permutation algorithm and integrate it into the NDN forwarding plane, which makes our scheme support lightweight secure forwarding. Finally, we evaluate our scheme in the prototype system and conduct comparative experiments with representative schemes. Experiment results show that our scheme outperforms it in terms of content retrieval latency and received throughput and can support lightweight secure forwarding with low cost.},
+year = {2022}
+}
+

@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3527974.3545720,
+author = {Hou, Xindi and Gao, Shuai and Liu, Ningchun and Hong, Gaofeng},
+title = {Enabling granularity-customizable geocast in network layer using P4-based software defined network},
+year = {2022},
+isbn = {9781450393287},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3527974.3545720},
+doi = {10.1145/3527974.3545720},
+abstract = {Geocast is a one-to-many communication paradigm for sending the data packets to a designated area rather than an IP address. However, the traditional IP-based solutions cannot cope with the challenges in flexibility, mobility, and implementation overhead in situations where users are requiring a granularity-customizable geocast. Therefore, we propose to implement the granularity-customizable geocast at the edge of the network by embedding a novel network-layer addressing scheme using P4-based Software Defined Network (SDN). In this paper, a geographic subdivision and coding method named EMD is used to subdivide the global region. Then, we introduce the GeoIP as the network address and propose a GeoIP packet processing scheme by utilizing P4. The proposed GeoIP-based addressing scheme is deployed at the edge of the network. To make our design compatible with the current Internet, a Geolocation Name Service (GNS) system is designed to support the Internet-wide geocast. In addition, a prototype system is built to implement and evaluate our design. Experiment results show that the proposed design is feasible to provide granularity-customizable geocast at a relatively low cost.},
+booktitle = {Proceedings of the ACM SIGCOMM Workshop on Future of Internet Routing \& Addressing},
+pages = {18–24},
+numpages = {7},
+keywords = {P4, SDN, geocast, network layer addressing},
+location = {Amsterdam, Netherlands},
+series = {FIRA '22}
+}

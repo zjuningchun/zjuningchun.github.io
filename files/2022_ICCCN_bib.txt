@@ -1,0 +1,10 @@
+@INPROCEEDINGS{9868864,
+  author={Liu, Ningchun and Gao, Shuai and Liang, Teng and Hou, Xindi and Das, Sajal K.},
+  booktitle={2022 International Conference on Computer Communications and Networks (ICCCN)}, 
+  title={An ICN-based Secure Task Cooperation Scheme in Challenging Wireless Edge Networks}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-7},
+  keywords={Wireless communication;Access control;Costs;Computer architecture;Encryption;Communication system security;Resource management;Task cooperation;attribute-based encryption;ICN;wireless edge networks},
+  doi={10.1109/ICCCN54977.2022.9868864}}

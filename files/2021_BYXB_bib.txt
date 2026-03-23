@@ -1,0 +1,13 @@
+@article{ 郜帅:54,
+author = {[ 郜帅,  国兴昌,  侯心迪, 刘宁春]},
+title = {一种信息中心移动自组网中的数据访问控制机制},
+publisher = {北京邮电大学学报},
+year = {2021},
+journal = {北京邮电大学学报},
+volume = {44},
+number = {2},
+eid = {54},
+pages = {54-60},
+keywords = {信息中心移动自组网;数据访问控制;门限秘密共享;双变量单向函数},
+doi = https://journal.bupt.edu.cn/CN/10.13190/j.jbupt.2020-203
+}

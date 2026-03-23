@@ -1,0 +1,10 @@
+@INPROCEEDINGS{9985127,
+  author={Yu, Lei and Gao, Shuai and Liu, Ningchun and Wang, Hongchao and Su, Wei},
+  booktitle={2022 International Conference on Networking and Network Applications (NaNA)}, 
+  title={A Cache-enabled NDN Forwarding Plane based on Programmable Switches}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={152-156},
+  keywords={Pipelines;TCPIP;Network architecture;Throughput;Reliability engineering;Indexes;Faces;NDN;programmable data plane;cache},
+  doi={10.1109/NaNA56854.2022.00033}}

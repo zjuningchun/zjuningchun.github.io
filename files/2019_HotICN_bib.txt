@@ -1,0 +1,10 @@
+@INPROCEEDINGS{9063206,
+  author={Liu, Ningchun and Gao, Shuai and Hou, Ningho},
+  booktitle={2019 2nd International Conference on Hot Information-Centric Networking (HotICN)}, 
+  title={CDAC: A Collaborative Data Access Control Scheme in Named Data Networking}, 
+  year={2019},
+  volume={},
+  number={},
+  pages={44-49},
+  keywords={Cryptography;Access control;Authentication;Collaboration;Computer architecture;Delays;named data networking;data access control;security},
+  doi={10.1109/HotICN48464.2019.9063206}}

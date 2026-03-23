@@ -1,0 +1,10 @@
+@INPROCEEDINGS{9634929,
+  author={Sun, Jiahui and Liu, Ningchun and Gao, Shuai and Su, Wei},
+  booktitle={2021 International Conference on Networking and Network Applications (NaNA)}, 
+  title={A Secure Identifier-to-Locator Mapping Mechanism in Smart Identifier Network}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={437-442},
+  keywords={Protocols;Prototypes;Network architecture;Encryption;Security;Eavesdropping;SINET;PDP;security;secrect permutation},
+  doi={10.1109/NaNA53684.2021.00029}}

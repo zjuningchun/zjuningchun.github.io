@@ -1,0 +1,10 @@
+@ARTICLE{9528858,
+  author={He, Guobiao and Su, Wei and Gao, Shuai and Liu, Ningchun and Das, Sajal K.},
+  journal={IEEE Transactions on Network and Service Management}, 
+  title={NetChain: A Blockchain-Enabled Privacy-Preserving Multi-Domain Network Slice Orchestration Architecture}, 
+  year={2022},
+  volume={19},
+  number={1},
+  pages={188-202},
+  keywords={Security;Computer architecture;Privacy;Scalability;Blockchains;Faces;Consensus algorithm;Multi-domain network slicing;privacy-preserving;blockchain;TEE},
+  doi={10.1109/TNSM.2021.3110057}}

@@ -1,0 +1,10 @@
+@INPROCEEDINGS{9441639,
+  author={Guo, Xingchang and Liu, Ningchun and Hou, Xindi and Gao, Shuai and Zhou, Huachun},
+  booktitle={2021 2nd Information Communication Technologies Conference (ICTC)}, 
+  title={An Efficient NDN Routing Mechanism Design in P4 Environment}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={28-33},
+  keywords={Protocols;Process control;TCPIP;Routing;Control systems;Heterogeneous networks;Communications technology;NDN;P4;routing mechanism},
+  doi={10.1109/ICTC51749.2021.9441639}}

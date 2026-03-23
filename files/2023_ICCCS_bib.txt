@@ -1,0 +1,10 @@
+@INPROCEEDINGS{10150666,
+  author={Liu, Peidai and Gao, Shuai and Hou, Xindi and Liu, Ningchun},
+  booktitle={2023 8th International Conference on Computer and Communication Systems (ICCCS)}, 
+  title={An Access Control Mechanism in Smart Identifier Network}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={440-444},
+  keywords={Access control;Cloud computing;Security management;Prototypes;Computer architecture;Network architecture;Computer security;SINET;ABAC;programmable data plane;network security},
+  doi={10.1109/ICCCS57501.2023.10150666}}
