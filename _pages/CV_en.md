@@ -63,28 +63,26 @@ Information-centric Edge Networks, June. 2023.  <a href="/files/Ningchun_Dissert
 # Service
 
 ## TPC Member
-- IEEE INFOCOM (Poster Session), 2026
-- IEEE MASS, 2025
-- IEEE CCNC, 2025, 2026
-- IEEE ROBOCOM, 2025
+- ICCCS 2024 (also as Session Chair)
+- ICBCTIS 2024
 
 ## Reviewer
-- **IEEE Journals**: IEEE Transactions on Networking, IEEE Transactions on  Communications, IEEE Transactions on Wireless Communications,  IEEE Transactions on Mobile Computing, IEEE Journal on Selected Areas in Communications (JSAC) Special Issue on Digital Twins for Mobile Networks,  IEEE Transactions on Signal Processing, IEEE Transactions on Consumer Electronics
-- **Elsevier Journals**: Computer Networks (COMNET)
-- **Spring Nature**: Wireless Networks, The Journal of Supercomputing, Wireless Personal Communications 
-- **Other Journals**: Journal of testing and evaluation
-- **Conferences**: INFOCOM, MASS, GLOBECOM, ICC, PIMRC, MILCOM, WCNC, ROBOCOM, MSWiM, CCNC
+- **IEEE Journals**: IEEE Transactions on Network and Service Management
+- **Elsevier Journals**: Digital Communications and Networks (DCN)
+- **Spring Nature**: The Journal of Supercomputing, BMC Medical Informatics and Decision Making
+- **Conferences**: IEEE ICC 2022, IEEE ICCCN 2025, IEEE PHM 2023 & 2025, ICIEIS 2024, ICCCS 2024, MEIE 2024, CSAE 2023
 
 <span class='anchor' id='teaching'></span>
 
 # Teaching Experience
 ## Zhejiang University
-- Introduction to Engineering with MATLAB, Spring 2026
+- Large Language Models Development and Deployment Practice, Spring 2025-2026
 
 ## Beijing Jiaotong University
-- Programmable Networks, Spring 2020
-- Electronic Devices and Circuits I, Fall 2019
-- Circuit Analysis, Fall 2019
+- C Language Course, Fall 2017-2018, Fall 2018-2019, Fall 2019-2020
+
+## Dalian Jiaotong University
+- Microcontroller Principles and Applications, Fall 2015-2016
 
 
 <span class='anchor' id='news'></span>

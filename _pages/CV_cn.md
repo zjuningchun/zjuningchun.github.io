@@ -68,16 +68,14 @@ I have published more than 10 papers with total <a href='https://scholar.google.
 - 2025年8月起，浙江省计算机学会会员
 
 ## TPC Member
-- IEEE INFOCOM (Poster Session), 2026
-- IEEE MASS, 2025
-- IEEE CCNC, 2025, 2026
-- IEEE ROBOCOM, 2025
+- ICCCS 2024 (also as Session Chair)
+- ICBCTIS 2024
 
 ## Reviewer
 - **IEEE Journals**: IEEE Transactions on Network and Service Management
 - **Elsevier Journals**: Digital Communications and Networks (DCN)
 - **Spring Nature**: The Journal of Supercomputing, BMC Medical Informatics and Decision Making
-- **Conferences**: IEEE ICC, IEEE ICCCN, IEEE PHM
+- **Conferences**: IEEE ICC 2022, IEEE ICCCN 2025, IEEE PHM 2023 & 2025, ICIEIS 2024, ICCCS 2024, MEIE 2024, CSAE 2023
 
 <span class='anchor' id='teaching'></span>
 
@@ -86,7 +84,7 @@ I have published more than 10 papers with total <a href='https://scholar.google.
 - 大模型开发与部署实践, 2025-2026学年春学期
 
 ## Beijing Jiaotong University
-- C语言课程，2017-2018学年秋学期、2018-2019学年秋学期、2019-2020学年秋学期
+- C语言课程，2017-2018学年秋学期，2018-2019学年秋学期，2019-2020学年秋学期
 
 ## Dalian Jiaotong University
 - 单片机原理及应用，2015-2016学年秋学期
