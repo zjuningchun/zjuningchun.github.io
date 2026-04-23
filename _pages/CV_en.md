@@ -22,7 +22,8 @@ redirect_from:
 # About Me
 Ningchun Liu, Ph.D, Experimentalist  
 National College for Excellent Engineers of Zhejiang University  
-Polytechnic Institute of Zhejiang University, Zhejiang Polytechnic Institute  
+Polytechnic Institute of Zhejiang University  
+Zhejiang Polytechnic Institute  
 Zhejiang Key Laboratory of Airspace Perception and Autonomous Unmanned Systems  
 
 Since March 2026, I have been working in <a href="https://pi.zju.edu.cn/">National College for Excellent Engineers of Zhejiang University</a>, focusing on AI4E research and practice courses teaching. From June 2023 to February 2026, I worked as an Assistant Researcher in the Research Center for High Efficiency Computing Infrastructure, <a href="https://www.zhejianglab.org/lab/home">Zhejiang Lab</a>, working on network observability, fault diagnosis, and efficiency &amp; performance optimization for AI infrastructure. In June 2023, I received my Ph.D. degree from the National Engineering Research Center of Advanced Network Technologies, <a href="https://www.bjtu.edu.cn/">Beijing Jiaotong University</a>, under the supervision of <a href="https://eie.bjtu.edu.cn/faculty/7637.html">Prof. Shuai Gao</a>. In July 2016, I received my Bachelor of Engineering degree in Communication Engineering (Rail Transit Signal and Control) from College of Electrical Engineering and Information Technology, <a href="https://www.djtu.edu.cn/">Dalian Jiaotong University</a>.  
