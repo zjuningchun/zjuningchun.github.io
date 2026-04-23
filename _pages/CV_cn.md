@@ -35,9 +35,11 @@ I have published more than 10 papers with total <a href='https://scholar.google.
 
 <span class='anchor' id='news'></span>
 # News
-- <span style="color:red;">Mar. 2026</span>: I joined Zhejiang University in Hangzhou, China.
-- <span style="color:red;">Apr. 2024</span>: I am honored to be invited to serve as the Session Chair on 2024 The 9th International Conference on Computer and Communication Systems (<a href="https://www.icccs.org/icccs2024.html">ICCCS 2024</a>).
-
+- 2026年4月，作为负责人的“基于AI模型的工业质检实践教学平台研制”项目获得浙江大学AI for LAB智能实验技术项目支持。
+- 2026年3月，加入浙江大学国家卓越工程师学院。
+<!--
+<span style="color:red;">Apr. 2024</span>: I am honored to be invited to serve as the Session Chair on 2024 The 9th International Conference on Computer and Communication Systems (<a href="https://www.icccs.org/icccs2024.html">ICCCS 2024</a>).
+-->
 <span class='anchor' id='publications'></span>
 
 # Publications 
