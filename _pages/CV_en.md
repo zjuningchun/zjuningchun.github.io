@@ -42,7 +42,7 @@ I have published more than 10 papers with total <a href='https://scholar.google.
 -->
 <span class='anchor' id='publications'></span>
 
-# Selected Publications 
+# Selected Publications
 
 ## Journal and Magazines
 - 张慧峰, **刘宁春**, 龙卫平, 陆平静, 邹涛, 隆克平, 张汝云, 朱俊. 面向国产算力的超大规模智算集群网络：关键挑战、技术途径与发展趋势[J]. **电信科学**, 2025, 41(12):1-26. (ZHANG Hui-feng, **LIU Ning-chun**, LONG Wei-ping, LU Ping-jing, ZOU Tao, LONG Ke-ping, ZHANG Ru-yun, ZHU Jun. Hyperscale Intelligent Computing Cluster Networks for Domestic Computing Power: Critical Challenges, Technical Pathways, and Future Trends[J]. **Telecommunications Science**, 2025, 41(12): 1-26.) <a href="/files/2025_TS.pdf">[pdf]<a href="/files/2025_TS_bib.txt">[bib]
